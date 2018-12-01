@@ -1,0 +1,6 @@
+[submodule "php-switch-scripts"]
+	path = php-switch-scripts
+	url = git@github.com:IvanRybakov/php-switch-scripts.git
+[submodule "virtualhost"]
+	path = virtualhost
+	url = git@github.com:IvanRybakov/virtualhost.git
